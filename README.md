@@ -30,8 +30,8 @@
 
 ### Mes Statistiques GitHub
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Athna12&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Statistiques de Nathanaël](https://github-readme-stats.vercel.app/api?username=Athna12&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### Langages Préférés
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Athna12&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Athna12&layout=compact&theme=radical&hide_border=true)
