@@ -27,11 +27,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-### Mes Statistiques GitHub
-
-![Statistiques de Nathanaël](https://github-readme-stats.vercel.app/api?username=Athna12&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-### Langages Préférés
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Athna12&layout=compact&theme=radical&hide_border=true)
